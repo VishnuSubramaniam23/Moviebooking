@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 400px;
+    margin-top: 45px;
+  
+   
+} 
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #E36D6D;
+    padding-top: 120px;
+    padding-right: 42px;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/516/986/479/retro-blur-hi-tech-movie-wallpaper-preview.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+#title{
+    font-weight: bolder;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    margin-left: 120px;
+}
+
+#subtitle{
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 65px;
+    margin-left: 90px;
+    color: #560000;
+}
+#username{
+    font-family: 'Special Elite', cursive;  
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 130px;
+    color: #000000;
+}
+
+#password{
+    font-family: 'Special Elite', cursive;  
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 130px;
+    color: #000000;
+    }
+
+#btnlogin{
+    font-family: 'Special Elite', cursive; 
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    background: #ED3F3F;
+    border-radius: 45px;
+    margin-left: 250px;
+    cursor: pointer;
+    
+}
+
+.content{
+    width: 320px;
+    height: 25px;
+    margin-left: 130px;
+    border-radius: 45px;
+}
+
+#btnreg{
+    font-family: 'Special Elite', cursive; 
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+    background: #ED3F3F;
+    border-radius: 45px;
+    margin-left: 150px;
+    cursor: pointer;
+}
+
+table{
+    font-family: 'Special Elite', cursive;  
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 130px;
+    color: #000000;
+}
+
+#title2{
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    margin-left: 100px;
+}
+
+#subtitle2{
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 65px;
+    margin-left: 180px;
+    line-height: 82px;
+    color: #560000;
+}
+#register{
+    font-weight: bolder;
+    font-family: 'Special Elite', cursive;  
+    font-size: 30px;
+    margin-left: 310px;
+    color:black;
+}
+.text{
+    width: 320px;
+    height: 25px;
+    border-radius: 20px;
+
+}
+#btnregister{
+    font-family: 'Special Elite', cursive; 
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    background: #ED3F3F;
+    border-radius: 45px;
+    margin-left: 290px;
+    cursor: pointer;
+    
+}
+tr{
+    height: 50px;
+}
+ .container1{
+     margin-top: 0px;
+     margin-left: 400px;
+ }
+
+
+
+
+
+
+ 
+
+
